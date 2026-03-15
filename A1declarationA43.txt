@@ -1,0 +1,25 @@
+___________________________________________
+Team Members
+___________________________________________
+Theophilus Tawana 
+MEng 
+29798418
+
+Khethinkosi Dlamini
+PGDip
+31039367
+
+Ndivho Mamphiswana
+PGDip
+31046207
+
+Silindile Cetshwayo
+PGDip
+29867428
+
+
+______________________________________________
+AI Usage declaration: 
+______________________________________________
+
+We hereby declare that Generative AI was used in this assignment. Generative AI was used as a Python coding assistant while working on the dataset, as an image generator while designing the poster and as a relief for tedious unintellectual tasks like editing. We do believe that we own this intellectual property because we did not take ideas from AI, but gave it our ideas and instructions, AI was an assistant in executing the ideas according to our own plan.
